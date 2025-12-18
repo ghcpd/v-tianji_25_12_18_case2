@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply px-3 py-1 border rounded bg-white hover:bg-slate-100;
+  }
+}
+
+body { @apply bg-slate-50 }
