@@ -1,1 +1,44 @@
 Prompt
+
+Problem Statement:
+I want a language vocabulary learning web app where I can study word lists, take quizzes, track learning progress, and review difficult words. Build a small, modern, visually polished, interactive Web UI project from scratch using Vue or React (your choice).
+
+Requirements:
+Create a complete, runnable project from zero.
+
+The application should be frontend-only and use mock or in-memory data (no real backend required).
+
+Implement a clean, well-structured component architecture with clear state management for vocabulary lists, quiz sessions, progress tracking, and review queues.
+
+Support common learning interactions such as flashcards, multiple-choice or typing quizzes, progress indicators, and marking words as “difficult” for later review.
+
+Generate full unit test coverage that verifies core UI logic, user interactions, and state updates.
+
+All tests must be executed and pass successfully.
+
+Run the project to ensure it boots and functions correctly.
+
+If any step fails, debug, fix, and re-run until everything passes.
+
+Do not assume success—treat this as a real execution environment.
+
+Deliverables:
+Full project structure
+
+All source code files
+
+All test files
+
+All configuration files
+
+Commands used to install dependencies, run tests, and start the development server
+
+Logs from running tests and launching the dev server
+
+A short summary after a successful run
+
+Title:
+Language Vocabulary Learning Web UI Generation & Full Test Execution
+
+Description:
+This task evaluates the model’s ability to design and implement a complete, modern, and visually refined vocabulary learning application from scratch. The application should focus on effective learning workflows, including studying word lists, taking quizzes, tracking learning progress, and reviewing difficult words. The model is expected to follow a realistic development workflow: building the UI, managing application state, writing and executing unit tests, iteratively fixing issues, and successfully launching the final application in a runnable state.
